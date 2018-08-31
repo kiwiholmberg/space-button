@@ -1,6 +1,6 @@
 #include <Bounce.h>
 
-const int buttonPin = 23;
+const int buttonPin = 0;
 const int bounceDelay = 100;
 
 Bounce debouncedButton = Bounce(buttonPin, bounceDelay);
@@ -18,7 +18,7 @@ void loop() {
 }
 
 void onButtonPress() {
-  Keyboard.press(KEY_ENTER);
-  Keyboard.release(KEY_ENTER);
+  Keyboard.press(KEY_SPACE);
+  Keyboard.release(KEY_SPACE);
 }
 
