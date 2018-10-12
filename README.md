@@ -1,7 +1,7 @@
 # space-button
 A space themed button 🖲
 
-![image](https://user-images.githubusercontent.com/1312802/46870870-1b812280-ce30-11e8-9130-8924904a1e32.png)
+![image](https://user-images.githubusercontent.com/1312802/46871312-49b33200-ce31-11e8-9208-678e4edab2fa.png)
 
 
 ## Requirements
